@@ -1,0 +1,17 @@
+  Super Wheels Company sells it's electric 2 wheelers based on the following pattern to it's retail and corporate customers. 
+  Every month it starts selling in the below mentioned pattern  
+  Day 1-One Vehicle  
+  Day 2 Three Vehicles  
+  Day 3-Seven Vehicles  
+  Day 4-Thirteen Vehicles  
+  Day 5-Twenty One Vehicles  
+  Day 6.  
+  Essentially this means 2 extra vehicles each day as the month progresses to what was sold in the previous day For the first 4 days       vehicles 
+  are sold to the retail market. Every 5th day all vehicles sold are exclusively to corporate customers only and not in the retail market. 
+  Again 4 days Super Wheels focusses on Retail Market 5th Day to Corporates and this pattern continues from beginning of the month to end of the month  
+  example:  
+    Display the sales information from April 1st to Sep 30th   
+    a. Number of Vehicles sold each month: Display month and sold count:20  
+    b. Number of Vehicles sold to retail customers: 10  
+    c. Number of Vehicles sold to corporate customers: 10  
+    d. Number of Vehicles sold from Aug 15th to Sep 15th 20
